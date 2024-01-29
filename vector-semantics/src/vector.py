@@ -1,4 +1,6 @@
 from contextual_window import *
+from math import log2
+
 
 class CoOccurrenceMatrix:
 
